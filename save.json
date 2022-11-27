@@ -1,0 +1,193 @@
+{
+  "tickets": [
+    {
+      "id": "12134167252",
+      "client_name": "Sebas",
+      "client_id": 0,
+      "client_age": 19,
+      "match_id": 5,
+      "stadium_id": 2,
+      "type": true,
+      "burnend": true,
+      "seat": "7-0",
+      "spents": 139.2
+    },
+    {
+      "id": "2268526137",
+      "client_name": "Sebas",
+      "client_id": 1,
+      "client_age": 20,
+      "match_id": 40,
+      "stadium_id": 1,
+      "type": true,
+      "burnend": true,
+      "seat": "5-1",
+      "spents": 139.2
+    },
+    {
+      "id": "3111658128",
+      "client_name": "Sebas",
+      "client_id": 2,
+      "client_age": 20,
+      "match_id": 34,
+      "stadium_id": 5,
+      "type": true,
+      "burnend": false,
+      "seat": "3-9",
+      "spents": 139.2
+    },
+    {
+      "id": "12322420320",
+      "client_name": "Sebas",
+      "client_id": 3,
+      "client_age": 20,
+      "match_id": 5,
+      "stadium_id": 2,
+      "type": false,
+      "burnend": true,
+      "seat": "4-2",
+      "spents": 58.0
+    },
+    {
+      "id": "25473100109",
+      "client_name": "Sebas",
+      "client_id": 4,
+      "client_age": 20,
+      "match_id": 5,
+      "stadium_id": 2,
+      "type": false,
+      "burnend": false,
+      "seat": "3-0",
+      "spents": 58.0
+    },
+    {
+      "id": "13219150162",
+      "client_name": "Sebas",
+      "client_id": 5,
+      "client_age": 20,
+      "match_id": 5,
+      "stadium_id": 2,
+      "type": false,
+      "burnend": false,
+      "seat": "0-4",
+      "spents": 58.0
+    },
+    {
+      "id": "124150248113",
+      "client_name": "Sebas",
+      "client_id": 0,
+      "client_age": 19,
+      "match_id": 3,
+      "stadium_id": 1,
+      "type": true,
+      "burnend": false,
+      "seat": "4-2",
+      "spents": 139.2
+    },
+    {
+      "id": "2431367045",
+      "client_name": "Sebas",
+      "client_id": 6,
+      "client_age": 23,
+      "match_id": 31,
+      "stadium_id": 8,
+      "type": true,
+      "burnend": false,
+      "seat": "3-0",
+      "spents": 139.2
+    }
+  ],
+  "bills": [
+    {
+      "client_id": 0,
+      "stadium_id": 2,
+      "restaurant": "Lusail Restaurant",
+      "product": "Fish and Chips",
+      "spents": 20.2
+    },
+    {
+      "client_id": 0,
+      "stadium_id": 2,
+      "restaurant": "Lusail Restaurant",
+      "product": "Beer",
+      "spents": 10.1
+    },
+    {
+      "client_id": 2,
+      "stadium_id": 5,
+      "restaurant": "Al Thumama Restaurant",
+      "product": "Fish and Chips",
+      "spents": 23.2
+    },
+    {
+      "client_id": 0,
+      "stadium_id": 2,
+      "restaurant": "Lusail Restaurant",
+      "product": "Fish and Chips",
+      "spents": 20.2
+    },
+    {
+      "client_id": 0,
+      "stadium_id": 2,
+      "restaurant": "Lusail Restaurant",
+      "product": "Pepsi",
+      "spents": 10.1
+    },
+    {
+      "client_id": 0,
+      "stadium_id": 2,
+      "restaurant": "Lusail Restaurant",
+      "product": "Pepsi",
+      "spents": 10.1
+    },
+    {
+      "client_id": 0,
+      "stadium_id": 2,
+      "restaurant": "Lusail Restaurant",
+      "product": "Beer",
+      "spents": 10.1
+    },
+    {
+      "client_id": 0,
+      "stadium_id": 2,
+      "restaurant": "Lusail Restaurant",
+      "product": "Hamburger",
+      "spents": 15.15
+    },
+    {
+      "client_id": 6,
+      "stadium_id": 8,
+      "restaurant": "974 Restaurant",
+      "product": "Pepsi",
+      "spents": 10.1
+    },
+    {
+      "client_id": 6,
+      "stadium_id": 8,
+      "restaurant": "974 Restaurant",
+      "product": "Hamburger",
+      "spents": 15.15
+    },
+    {
+      "client_id": 6,
+      "stadium_id": 8,
+      "restaurant": "974 Restaurant",
+      "product": "Hamburger",
+      "spents": 15.15
+    },
+    {
+      "client_id": 6,
+      "stadium_id": 8,
+      "restaurant": "974 Restaurant",
+      "product": "Hamburger",
+      "spents": 15.15
+    },
+    {
+      "client_id": 6,
+      "stadium_id": 8,
+      "restaurant": "974 Restaurant",
+      "product": "Hamburger",
+      "spents": 15.15
+    }
+  ]
+}
