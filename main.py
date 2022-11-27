@@ -8,7 +8,7 @@ def setup_data():
     # Hacemos las peticiones http a la api para inicializar la db
     if not fetch_data():
         print(f"{Colors.RED}Hubo un error con los endpoints de la api. No se puede proseguir con la app{Colors.END}")
-        return
+        exit()
 
     # Creamos un archivo de guardado si no existe, sino lo cargamos
 
